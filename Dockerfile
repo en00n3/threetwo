@@ -1,4 +1,4 @@
-FROM node:18.15.0-alpine
+FROM node:18.20-alpine
 LABEL maintainer="Rishi Ghan <rishi.ghan@gmail.com>"
 
 WORKDIR /threetwo
